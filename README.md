@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/94802760/212883949-8cd56321-5ba2-4310-b8fc-cca0694feea8.png)
+
 # Memory-Game-vanilla
 A simple Memory Game made as pet project at RSSchool 2021 Course
 
